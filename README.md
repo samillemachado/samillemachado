@@ -2,7 +2,7 @@
 
 <p> Eu sou a Samille!</p>
 
-- 🙋‍♀️ Eu sou mãe da Elisa 👶, arquiteta e urbanista e atualmente estou aprendendo programação web!
+- 🙋‍♀️ Sou mãe da Elisa 👶, Arquiteta e Urbanista e atualmente estou aprendendo programação web!
 - 📚 Cursando Programa Starter Full Stack Web Developer - Growdev
 - 👷‍♀️ Experiências Profissionais: Trabalhei por 10 anos como arquiteta em equipe multidisciplinar, tenho experiência com gestão de projetos e equipes.  
 - 💻 Tecnologias favoritas: HTML, CSS, Javascript
