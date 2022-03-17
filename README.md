@@ -7,7 +7,7 @@
 - 👷‍♀️ Experiências Profissionais: Trabalhei por 10 anos como arquiteta em equipe multidisciplinar, tenho experiência com gestão de projetos e equipes.  
 - 💻 Tecnologias favoritas: HTML, CSS, Javascript
 - 🎯 Objetivos: Web Developer
-- 📫 Como me encontrar: <a href="www.linkedin.com/in/samille-machado">LinkedIn</a>, <a href="mailto:samillebmachado@gmail.com" target="_blank"> Email</a>
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/samillemachado/">LinkedIn</a>, <a href="mailto:samillebmachado@gmail.com" target="_blank"> Email</a>
 
 <div align="center">
   <a href="https://github.com/samillemachado">
