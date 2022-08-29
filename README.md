@@ -5,8 +5,8 @@
 - 🙋‍♀️ Sou mãe da Elisa 👶, Arquiteta e Urbanista e atualmente estou aprendendo programação web!
 - 📚 Cursando Programa Starter Full Stack Web Developer - Growdev
 - 👷‍♀️ Experiências Profissionais: Trabalhei por 10 anos como arquiteta em equipe multidisciplinar, tenho experiência com gestão de projetos e equipes.  
-- 💻 Tecnologias favoritas: HTML, CSS, Javascript
-- 🎯 Objetivos: Web Developer
+- 💻 Tecnologias favoritas: HTML, CSS, Javascript, Typescript
+- 🎯 Objetivos: Consolidar minha transição de carreira para Web Developer!
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/samillemachado/">LinkedIn</a>, <a href="mailto:samillebmachado@gmail.com" target="_blank"> Email</a>
 
 <div align="center">
