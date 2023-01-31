@@ -2,7 +2,6 @@
 
 <p> Eu sou a Samille!</p>
 
-- 🙋‍♀️ Sou mãe da Elisa 👶, arquiteta e atualmente estou aprendendo programação web!
 - 📚 Full Stack Web Developer - <a href="https://www.growdev.com.br/" target="_blank" rel="noopener noreferrer">Growdev</a>
 - 🎯 Objetivos: Consolidar minha carreira de Web Developer!
 - 📫 Vem falar comigo! 
