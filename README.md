@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<p> Eu sou a Samille!</p>
 
-- 📚 Full Stack Web Developer - <a href="https://www.growdev.com.br/" target="_blank" rel="noopener noreferrer">Growdev</a>
-- 🎯 Objetivos: Consolidar minha carreira de Web Developer!
-- 📫 Vem falar comigo! 
+- 📚 Full Stack Web Developer 
     
 ##
 
